@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "platform",
+			"path": "../platform"
+		},
+		{
+			"name": "frontend",
+			"path": "../frontend"
+		},
+		{
+			"name": "judger",
+			"path": "../judger"
+		},
+		{
+			"name": "docusaurus",
+			"path": "../docusaurus"
+		},
+		{
+			"name": "problem-packages",
+			"path": "../problem-packages"
+		},
+		{
+			"name": "workspace",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
